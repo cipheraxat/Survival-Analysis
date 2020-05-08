@@ -11,7 +11,7 @@ If you find any of the above questions (or even the questions remotely related t
 The purpose of this article is to build an intuition, so that we can apply this technique in different business settings.
 
 
-[Link to the article](https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e)
+
 
 ![Survival Analysis](https://miro.medium.com/max/856/1*Ckhi9soE9Lx2lIf9tPVLMQ.png "Survival Analysis in Python")
 
@@ -32,4 +32,4 @@ The purpose of this article is to build an intuition, so that we can apply this 
 
 ##### 7. Additional Resources
 
-#### [Link to the article](https://towardsdatascience.com/survival-analysis-intuition-implementation-in-python-504fde4fcf8e)
+
