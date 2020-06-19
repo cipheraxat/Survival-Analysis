@@ -12,6 +12,15 @@ The purpose of this article is to build an intuition, so that we can apply this 
 
 
 
+<h2 align= "center"><b> Program: </b></h2>
+
+<a href = "https://scodein.tech/"><h3 align= "center"><b> Student Code IN </b></h3></a> 
+
+<p align="center"><img width=30% src="https://github.com/cipheraxat/Survival-Analysis/blob/master/studentcodein.jpg"></p>
+
+Student Code-in is a global program that helps students grow with “OPEN SOURCE”. It is a 2 months long Open-Source initiative which provides you the best platform to improve your skills and abilities by contributing to vast variety of OPEN SOURCE Projects. In this,all the registered participants would get an exquisite opportunity to interact with the mentors and the Organizing Team. 
+
+
 
 ![Survival Analysis](https://miro.medium.com/max/856/1*Ckhi9soE9Lx2lIf9tPVLMQ.png "Survival Analysis in Python")
 
