@@ -41,4 +41,4 @@ Student Code-in is a global program that helps students grow with “OPEN SOURCE
 
 ##### 7. Additional Resources
 
-
+#### [Source](https://github.com/anurag-code/Survival-Analysis-Intuition-Implementation-in-Python/blob/master/Survival%20Analysis%20-%20Quick%20Implementation.ipynb)
