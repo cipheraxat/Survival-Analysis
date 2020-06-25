@@ -35,7 +35,7 @@ Clinical Data as a XLS file with the following fields:
     0 = Negative
     Blank = Indeterminate
   
-``Hormone Receptor Status (ER+)``
+``Hormone Receptor Status (HR+)``
 
     1 = Positive
     0 = Negative
