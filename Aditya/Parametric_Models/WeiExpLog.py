@@ -27,7 +27,7 @@ lnf.plot_cumulative_hazard(ax=axes[1][0])
 llf.plot_cumulative_hazard(ax=axes[1][1])
 
 plt.suptitle(
-    'Parametric Model Implementation of the Telco dataset using different models')
+    'Parametric Model Implementation of cumulative hazard function on the Telco dataset')
 
 fig.text(0.5, 0.04, 'Timeline', ha='center')
 fig.text(0.04, 0.5, 'Probability', va='center', rotation='vertical')
