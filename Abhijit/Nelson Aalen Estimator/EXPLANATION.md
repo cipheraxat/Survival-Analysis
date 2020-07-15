@@ -21,7 +21,7 @@ the Techno Churn data is more at the beginning and at the end points, having som
 ![](https://github.com/Abhijit2505/Survival-Analysis/blob/master/Abhijit/Nelson%20Aalen%20Estimator/NA%20Estimator%20Plots/Smooth%20NA%20Estimator.png)
 
 Interpretation of the cumulative hazard function can be difficultve, hence we have derived a more-interpretable hazard function using a **kernel smoother**, which smoothes the difference of 
-cummulative hazard function(How do we know this ? Have a look at this [insight](https://github.com/Abhijit2505/Survival-Analysis/new/master/Abhijit/Nelson%20Aalen%20Estimator#Insight). 
+cummulative hazard function(How do we know this ? Have a look at this [insight](https://github.com/Abhijit2505/Survival-Analysis/blob/master/Abhijit/Nelson%20Aalen%20Estimator/EXPLANATION.md#insight). 
 We use a **bandwidth** parameter to control the amount of smoothening.
 
 ### Interpretation of Bandwidth
