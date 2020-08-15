@@ -1,0 +1,105 @@
+/* Three columns side by side */
+.column {
+    float: left;
+    width: 33.3%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+  }
+  
+  /* Display the columns below each other instead of side by side on small screens */
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+  
+  /* Add some shadows to create a card effect */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color:white;
+    /*display: inline-block;*/
+  }
+
+  .mentor-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width:40%;
+    display: inline-block;
+    margin-left:10%;
+    margin-right:10%;
+    z-index:9999;
+    background-color:white;
+  }
+
+  .participant-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width:40%;
+    display: inline-block;
+    margin-left:10%;
+    margin-right:10%;
+    background-color:white;
+  }
+
+  .admin {
+    width:25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+  }
+
+  .mentor {
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  .participant {
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+
+  /* Some left and right padding inside the container */
+  .container {
+    padding: 0 16px;
+  }
+  
+  .title {
+    color: grey;
+  }
+  ul
+  {
+  display:flex;  
+  justify-content: space-between;
+  margin-left:20%;
+  margin-right:20%;
+  padding-right:20%;
+  padding-left:20%;
+  list-style:none;
+  }
+
+  .top-bar {
+    padding-right: 50px;
+    padding-top:20px;
+    font-size:20px;
+  }
+
+  p {
+    width:60%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top:100px;
+    text-align: center;
+    font-size: 30px;
+  }
